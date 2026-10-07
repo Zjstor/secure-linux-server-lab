@@ -1,4 +1,4 @@
-# secure-linux-server-lab
+# Secure Linux Server Lab
 Ubuntu Server lab with Nginx, UFW firewall, SSH key authentication, log analysis, and tested webpage recovery.
 
 My first guided Linux administration and security lab. I configured an Ubuntu Server VM, hosted a webpage with Nginx, secured SSH access, inspected logs, and tested webpage recovery.
