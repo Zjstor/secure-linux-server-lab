@@ -42,6 +42,8 @@ My first guided Linux administration and security lab. I configured an Ubuntu Se
 ### Firewall configuration
 ![UFW firewall rules](Secure-Linux-Lab/03-firewall-rules.png)
 
+![UFW firewall rules](Secure-Linux-Lab/04-firewall-rules.png)
+
 ### SSH login
 ![Successful SSH login](Secure-Linux-Lab/04-ssh-login.png)
 
